@@ -18,13 +18,13 @@ Projeto desenvolvido durante a primeira etapa da formação angular do Alura. <b
 <br>
 
 <p align="center">
-Dashboard: <hr><br>
-  <img alt="Challenge two" src="./public/assets/img/Dashboard.png" width="100%">
+Tela de Transferências: <hr><br>
+  <img alt="Transfer" src="src/assets/transferencia.png" width="100%">
 </p>
 
 <p align="center">
-Fale Conosco: <hr><br>
-  <img alt="Challenge two" src="./public/assets/img/FaleConosco.png" width="100%">
+Tela de Extrato: <hr><br>
+  <img alt="Extract" src="src/assets/extrato.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -39,15 +39,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma página com uma dashboard e uma tela de contato:
-
-- [Acesse o projeto finalizado, online](https://hs-admin.netlify.app/)
-
-
 Para rodar o projeto:
 
 Através de algum terminal execute o seguinte comando: <br>
-`git clone https://github.com/HenriqueMVSS/Hs-Admin-React`
+`git clone https://github.com/HenriqueMVSS/byteBank-angular`
 
 Após concluir o clone do repositório: <br>
 
@@ -59,31 +54,3 @@ Roda `npm install` para instalar as dependências do projeto.
 Esse projeto está sob a licença MIT.
 
 ---
-
-# Bytebank
-
-This project was generated with 
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
